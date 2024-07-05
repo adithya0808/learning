@@ -1,3 +1,13 @@
 :root{
     font-size: 16px;
+    --primary-color:#14213D;
+    --secondary-color:#fca311;
+    --dark-color:#000000;
+    --light-color:#FFFFFF;
+    --ff:"Montserrat", sans-serif;
+    --h1: bold 38px var(--ff);
+}
+*{
+    margin: 0;
+    padding: 0%;
 }

@@ -1,4 +1,4 @@
-import "./Nav.css"
+import "../assets/css/Nav.css"
 const Nav = () => {
   return (
     <nav className="nav-wrap">
